@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+label {
+    display: flex;
+    margin: 10px 0px;
+}
+
+label > input {
+    margin-left: 6px;
+}
+
+canvas {
+    width: 800px;
+    image-rendering: pixelated;
+}
